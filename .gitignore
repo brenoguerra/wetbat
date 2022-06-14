@@ -1,0 +1,26 @@
+# Front .gitignore
+/fe/.gitignore
+/fe/node_modules
+/fe/.pnp
+/fe/.pnp.js
+/fe/coverage
+/fe/build
+/fe/.DS_Store
+/fe/.env.local
+/fe/.env.development.local
+/fe/.env.test.local
+/fe/.env.production.local
+/fe/npm-debug.log*
+/fe/yarn-debug.log*
+/fe/yarn-error.log*
+
+
+# Back .gitignore
+/api/.gitignore
+/api/node_modules/
+/api/dist/
+/api/.env
+/api/.vscode
+/api/temp/
+/api/build/
+/api/coverage
